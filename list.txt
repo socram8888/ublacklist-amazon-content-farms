@@ -1,0 +1,20 @@
+# Amazon Spain
+*://*.agreste.es/*
+*://*.biozone.es/*
+*://*.buscarprecios.es/*
+*://*.centrogalegodevela.es/*
+*://*.correycompra.es/*
+*://*.dpop.es/*
+*://*.elplanmaestro.es/*
+*://*.estarguapas.com/*
+*://*.franpa.es/*
+*://*.hiperchino.com/*
+*://*.hogaring.com/*
+*://*.losmejoresproductos.es/*
+*://*.lotesycestas.es/*
+*://*.madeval.es/*
+*://*.mejorestop20.com/*
+*://*.merkashop.net/*
+*://*.saludalia.com/*
+*://*.teatrodelaciudad.es/*
+*://*.vpauto.es/*
