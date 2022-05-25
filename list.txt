@@ -1,4 +1,6 @@
 # Amazon Spain
+*://*.5mejores.top/*
+*://*.aaef-andalucia.com/*
 *://*.agreste.es/*
 *://*.biozone.es/*
 *://*.buscarprecios.es/*
@@ -28,3 +30,29 @@
 *://*.teatrodelaciudad.es/*
 *://*.top20mejores.com/*
 *://*.vpauto.es/*
+*://*.soloelmejor.es/*
+*://*.bricolagecasa.com/*
+*://*.carreracofrade.org/*
+*://*.casa-triunfo.com/*
+*://*.chollosyofertas.es/*
+*://*.compraelmejor.com/*
+*://*.comprartdt.com/*
+*://*.eurocollege.es/*
+*://*.glsone.es/*
+*://*.greenbiz.es/*
+*://*.hacerlocomo.com/*
+*://*.infoprecios.es/*
+*://*.megatex.es/*
+*://*.mejoresopiniones.net/*
+*://*.mejoresresenas.es/*
+*://*.mesondelmar.es/*
+*://*.newcoas.es/*
+*://*.nuevabarato.com/*
+*://*.ofertas.center/*
+*://*.ofertas.com/*
+*://*.planamigos.es/*
+*://*.reviewfinder.es/*
+*://*.rootstudio.es/*
+*://*.secocina.com/*
+*://*.tecknomano.com/*
+*://*.verprecio.com/*
