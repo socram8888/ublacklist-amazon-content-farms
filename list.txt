@@ -1,5 +1,6 @@
 # Amazon Germany
 *://*.lnb-test.de/*
+*://*.technotrend.eu/*
 
 # Amazon Spain
 *://*.5mejores.top/*
