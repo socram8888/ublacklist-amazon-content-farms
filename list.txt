@@ -66,5 +66,6 @@
 *://*.teatrodelaciudad.es/*
 *://*.tecknomano.com/*
 *://*.top20mejores.com/*
+*://*.tutecnopro.net/*
 *://*.verprecio.com/*
 *://*.vpauto.es/*
