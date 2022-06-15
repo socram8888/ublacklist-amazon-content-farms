@@ -15,6 +15,7 @@
 *://*.compraelmejor.com/*
 *://*.comprartdt.com/*
 *://*.correycompra.es/*
+*://*.clinicaquiros.es/*
 *://*.dpop.es/*
 *://*.edusiciudadreal.es/*
 *://*.elplanmaestro.es/*
