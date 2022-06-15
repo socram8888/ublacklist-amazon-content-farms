@@ -29,6 +29,7 @@
 *://*.eurocollege.es/*
 *://*.extragrupo.org/*
 *://*.franpa.es/*
+*://*.gestionclinicasveterinarias.es/*
 *://*.glsone.es/*
 *://*.greenbiz.es/*
 *://*.hacerlocomo.com/*
