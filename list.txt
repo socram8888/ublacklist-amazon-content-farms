@@ -1,3 +1,6 @@
+# Amazon Germany
+*://*.lnb-test.de/*
+
 # Amazon Spain
 *://*.5mejores.top/*
 *://*.aaef-andalucia.com/*
@@ -15,6 +18,7 @@
 *://*.compraelmejor.com/*
 *://*.comprar-losmejores.com/*
 *://*.comprartdt.com/*
+*://*.configurar.pro/*
 *://*.correycompra.es/*
 *://*.clinicaquiros.es/*
 *://*.dpop.es/*
@@ -31,6 +35,8 @@
 *://*.hiperchino.com/*
 *://*.hogaring.com/*
 *://*.infoprecios.es/*
+*://*.ladispensarevista.es/*
+*://*.latienda232.es/*
 *://*.losmejoresproductos.es/*
 *://*.lotesycestas.es/*
 *://*.madeval.es/*
@@ -42,6 +48,7 @@
 *://*.merkashop.net/*
 *://*.mesondelmar.es/*
 *://*.micoroda.es/*
+*://*.nanomadrid.es/*
 *://*.newcoas.es/*
 *://*.nuevabarato.com/*
 *://*.ofertas.center/*
