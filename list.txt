@@ -15,13 +15,14 @@
 *://*.cholloschic.com/*
 *://*.chollosyofertas.es/*
 *://*.clickompra.com/*
+*://*.clinicaquiros.es/*
 *://*.comerciallavilla.es/*
 *://*.compraelmejor.com/*
 *://*.comprar-losmejores.com/*
 *://*.comprartdt.com/*
 *://*.configurar.pro/*
 *://*.correycompra.es/*
-*://*.clinicaquiros.es/*
+*://*.cultture.com/*
 *://*.dpop.es/*
 *://*.edusiciudadreal.es/*
 *://*.elplanmaestro.es/*
