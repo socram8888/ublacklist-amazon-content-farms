@@ -56,6 +56,7 @@
 *://*.nuevabarato.com/*
 *://*.ofertas.center/*
 *://*.ofertas.com/*
+*://*.papeleria-tecnica.net/*
 *://*.perrodetrabajo.es/*
 *://*.planamigos.es/*
 *://*.policlinicoeuropeo.es/*
