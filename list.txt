@@ -24,6 +24,7 @@
 *://*.congustoysabor.es/*
 *://*.correycompra.es/*
 *://*.cultture.com/*
+*://*.decodificador.top/*
 *://*.dpop.es/*
 *://*.edusiciudadreal.es/*
 *://*.elplanmaestro.es/*
@@ -45,6 +46,7 @@
 *://*.losmejoresproductos.es/*
 *://*.lotesycestas.es/*
 *://*.madeval.es/*
+*://*.megacompras.online/*
 *://*.megatex.es/*
 *://*.mejoresopiniones.net/*
 *://*.mejoresresenas.es/*
