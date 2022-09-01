@@ -73,3 +73,5 @@
 *://*.tutecnopro.net/*
 *://*.verprecio.com/*
 *://*.vpauto.es/*
+*://*.wizishop.es/*
+*://*.yatt.es/*
