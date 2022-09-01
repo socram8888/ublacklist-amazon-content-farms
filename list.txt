@@ -21,6 +21,7 @@
 *://*.comprar-losmejores.com/*
 *://*.comprartdt.com/*
 *://*.configurar.pro/*
+*://*.congustoysabor.es/*
 *://*.correycompra.es/*
 *://*.cultture.com/*
 *://*.dpop.es/*
