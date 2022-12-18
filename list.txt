@@ -37,6 +37,7 @@
 *://*.greenbiz.es/*
 *://*.hacerlocomo.com/*
 *://*.hazlacompra.com/*
+*://*.hispatablets.com/
 *://*.hiperchino.com/*
 *://*.hogaring.com/*
 *://*.infoprecios.es/*
